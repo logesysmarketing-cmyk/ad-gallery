@@ -1,0 +1,338 @@
+[
+  {
+    "brand": "Databricks",
+    "text": "Unify your data, analytics and AI on one platform. Databricks helps data engineering teams build reliable data pipelines at scale. Start your free trial today.",
+    "image_url": "",
+    "image_file": "ad_4e3f864ba9cf.svg",
+    "start_date": "2025-11-15",
+    "days_running": 129
+  },
+  {
+    "brand": "Snowflake",
+    "text": "Streamline your data engineering workflows with Snowflake. Build, deploy, and manage data pipelines faster than ever. Join 9,000+ organizations.",
+    "image_url": "",
+    "image_file": "ad_edf1439075a8.svg",
+    "start_date": "2025-12-01",
+    "days_running": 113
+  },
+  {
+    "brand": "Fivetran",
+    "text": "Automated data integration for modern data teams. 500+ connectors. Zero maintenance pipelines. Focus on insights, not infrastructure.",
+    "image_url": "",
+    "image_file": "ad_a7ace9d7b0d5.svg",
+    "start_date": "2025-10-20",
+    "days_running": 155
+  },
+  {
+    "brand": "dbt Labs",
+    "text": "Transform your data with dbt. The standard for data transformation. Trusted by 30,000+ companies for analytics engineering.",
+    "image_url": "",
+    "image_file": "ad_766f20e7f061.svg",
+    "start_date": "2025-09-10",
+    "days_running": 195
+  },
+  {
+    "brand": "Talend",
+    "text": "Enterprise data integration and data integrity. Clean, complete, and compliant data for your entire organization. Request a demo.",
+    "image_url": "",
+    "image_file": "ad_ae8171792265.svg",
+    "start_date": "2025-08-05",
+    "days_running": 231
+  },
+  {
+    "brand": "Informatica",
+    "text": "AI-powered data management platform. From data engineering to governance, power your digital transformation with intelligent automation.",
+    "image_url": "",
+    "image_file": "ad_54e707783558.svg",
+    "start_date": "2025-11-01",
+    "days_running": 143
+  },
+  {
+    "brand": "Matillion",
+    "text": "Data productivity for the cloud era. Build data pipelines 5x faster. Native integrations with Snowflake, Databricks, and Redshift.",
+    "image_url": "",
+    "image_file": "ad_752da5f06157.svg",
+    "start_date": "2025-07-20",
+    "days_running": 247
+  },
+  {
+    "brand": "Stitch Data",
+    "text": "Simple, extensible ETL built for data teams. Move data from 130+ sources to your warehouse in minutes. Open source & cloud-hosted.",
+    "image_url": "",
+    "image_file": "ad_e9e019e0aade.svg",
+    "start_date": "2026-01-05",
+    "days_running": 78
+  },
+  {
+    "brand": "Prefect",
+    "text": "Workflow orchestration for data engineers. Monitor, schedule, and orchestrate your data pipelines with confidence. Open source.",
+    "image_url": "",
+    "image_file": "ad_dbbe1ffdf6de.svg",
+    "start_date": "2025-10-12",
+    "days_running": 163
+  },
+  {
+    "brand": "Airbyte",
+    "text": "Open-source data integration platform. 350+ pre-built connectors. Move data from any source to any destination. Self-hosted or cloud.",
+    "image_url": "",
+    "image_file": "ad_c26480dbd84b.svg",
+    "start_date": "2025-12-18",
+    "days_running": 96
+  },
+  {
+    "brand": "Tableau (Salesforce)",
+    "text": "See and understand your data with Tableau. Self-service analytics for everyone. Interactive dashboards that drive decisions.",
+    "image_url": "",
+    "image_file": "ad_f0dfbd539a8c.svg",
+    "start_date": "2025-06-15",
+    "days_running": 282
+  },
+  {
+    "brand": "Power BI (Microsoft)",
+    "text": "Turn data into opportunity with Power BI. Enterprise analytics for your organization. AI-powered insights at your fingertips.",
+    "image_url": "",
+    "image_file": "ad_1503f327151f.svg",
+    "start_date": "2025-09-22",
+    "days_running": 183
+  },
+  {
+    "brand": "Looker (Google Cloud)",
+    "text": "Modern business intelligence that delivers actionable insights. Explore, share, and operationalize trusted data analytics across your org.",
+    "image_url": "",
+    "image_file": "ad_da49658db02a.svg",
+    "start_date": "2025-08-30",
+    "days_running": 206
+  },
+  {
+    "brand": "ThoughtSpot",
+    "text": "AI-powered analytics and search-driven insights. Ask questions in natural language and get instant answers from your data.",
+    "image_url": "",
+    "image_file": "ad_1f9429e9b792.svg",
+    "start_date": "2025-11-08",
+    "days_running": 136
+  },
+  {
+    "brand": "Qlik",
+    "text": "Active Intelligence Platform. From raw data to remarkable outcomes. Real-time analytics and data integration in one platform.",
+    "image_url": "",
+    "image_file": "ad_b7d29c77aefa.svg",
+    "start_date": "2025-10-01",
+    "days_running": 174
+  },
+  {
+    "brand": "Sisense",
+    "text": "Embed analytics everywhere. Infuse AI-powered analytics into your products and workflows. White-label BI for SaaS companies.",
+    "image_url": "",
+    "image_file": "ad_d0fabb79b068.svg",
+    "start_date": "2025-07-10",
+    "days_running": 257
+  },
+  {
+    "brand": "Zapier",
+    "text": "Automate your work across 6,000+ apps. No code required. Build powerful workflow automations in minutes. Free to start.",
+    "image_url": "",
+    "image_file": "ad_aefdd1b69bd0.svg",
+    "start_date": "2025-05-20",
+    "days_running": 308
+  },
+  {
+    "brand": "Make (Integromat)",
+    "text": "Visual workflow automation for teams. Connect apps, design workflows, and automate processes without writing code. 1,500+ integrations.",
+    "image_url": "",
+    "image_file": "ad_9f91c82ad75c.svg",
+    "start_date": "2025-09-15",
+    "days_running": 190
+  },
+  {
+    "brand": "n8n",
+    "text": "Fair-code workflow automation. Self-hostable, extendable, and privacy-first. Build complex automations with a visual editor.",
+    "image_url": "",
+    "image_file": "ad_5877e26c078d.svg",
+    "start_date": "2025-11-25",
+    "days_running": 119
+  },
+  {
+    "brand": "Monday.com",
+    "text": "Work OS that powers workflow automation. Automate repetitive tasks, streamline approvals, and keep your team aligned. Try free.",
+    "image_url": "",
+    "image_file": "ad_80afa31459fb.svg",
+    "start_date": "2025-08-18",
+    "days_running": 218
+  },
+  {
+    "brand": "Workato",
+    "text": "Enterprise workflow automation and integration platform. Connect your apps and automate business processes at scale. SOC 2 compliant.",
+    "image_url": "",
+    "image_file": "ad_71fe42afd96c.svg",
+    "start_date": "2025-10-05",
+    "days_running": 170
+  },
+  {
+    "brand": "Celonis",
+    "text": "Process mining meets workflow automation. Discover inefficiencies, automate fixes, and continuously improve your business processes.",
+    "image_url": "",
+    "image_file": "ad_566c7b59ac92.svg",
+    "start_date": "2025-12-10",
+    "days_running": 104
+  },
+  {
+    "brand": "UiPath",
+    "text": "AI-powered automation platform. From robotic process automation to intelligent document processing. Automate anything.",
+    "image_url": "",
+    "image_file": "ad_86d8b5cfb901.svg",
+    "start_date": "2025-07-01",
+    "days_running": 266
+  },
+  {
+    "brand": "Automation Anywhere",
+    "text": "Intelligent automation for the enterprise. Cloud-native RPA + AI. Automate complex business processes end to end.",
+    "image_url": "",
+    "image_file": "ad_21c5935658f7.svg",
+    "start_date": "2025-06-25",
+    "days_running": 272
+  },
+  {
+    "brand": "Tray.io",
+    "text": "The universal automation cloud. Connect any stack, automate any process, innovate at any scale. Built for business & IT.",
+    "image_url": "",
+    "image_file": "ad_7ea80138ad02.svg",
+    "start_date": "2025-09-28",
+    "days_running": 177
+  },
+  {
+    "brand": "Alteryx",
+    "text": "Analytics automation platform. Democratize data science. Empower every analyst to prepare, blend, and analyze data faster.",
+    "image_url": "",
+    "image_file": "ad_f322ccfc5930.svg",
+    "start_date": "2025-08-12",
+    "days_running": 224
+  },
+  {
+    "brand": "Atlan",
+    "text": "The active metadata platform for modern data teams. Data cataloging, governance, and collaboration in one place.",
+    "image_url": "",
+    "image_file": "ad_53ce9a6f5d2a.svg",
+    "start_date": "2025-11-20",
+    "days_running": 124
+  },
+  {
+    "brand": "Monte Carlo",
+    "text": "Data observability for the modern data stack. End-to-end visibility into your data pipelines. Detect and resolve data issues fast.",
+    "image_url": "",
+    "image_file": "ad_bd252a072877.svg",
+    "start_date": "2025-10-28",
+    "days_running": 147
+  },
+  {
+    "brand": "Great Expectations",
+    "text": "Data quality you can trust. Open-source framework for validating, documenting, and profiling your data. Stop bad data.",
+    "image_url": "",
+    "image_file": "ad_357846e9284b.svg",
+    "start_date": "2025-09-05",
+    "days_running": 200
+  },
+  {
+    "brand": "Hevo Data",
+    "text": "No-code data pipeline platform. Automated ETL/ELT from 150+ sources. Built for data engineers in India and worldwide.",
+    "image_url": "",
+    "image_file": "ad_3c590d084a7c.svg",
+    "start_date": "2025-12-22",
+    "days_running": 92
+  },
+  {
+    "brand": "Rivery",
+    "text": "SaaS ELT platform for data teams. Ingest, transform, and orchestrate data pipelines. Pre-built workflows for instant value.",
+    "image_url": "",
+    "image_file": "ad_2ef2245696b8.svg",
+    "start_date": "2025-10-15",
+    "days_running": 160
+  },
+  {
+    "brand": "Hightouch",
+    "text": "Reverse ETL for growth teams. Sync your data warehouse to 120+ business tools. Activate your data where it matters.",
+    "image_url": "",
+    "image_file": "ad_ffb5f0c5a90d.svg",
+    "start_date": "2025-11-02",
+    "days_running": 142
+  },
+  {
+    "brand": "Census",
+    "text": "Operational analytics. Sync data from your warehouse to every business tool. No engineering required. The reverse ETL platform.",
+    "image_url": "",
+    "image_file": "ad_9e150a2b8f77.svg",
+    "start_date": "2026-01-10",
+    "days_running": 73
+  },
+  {
+    "brand": "Rudderstack",
+    "text": "Customer data infrastructure for developers. Open-source CDP alternative. Collect, unify, and activate customer data.",
+    "image_url": "",
+    "image_file": "ad_569da8f09015.svg",
+    "start_date": "2025-08-22",
+    "days_running": 214
+  },
+  {
+    "brand": "Apache Kafka (Confluent)",
+    "text": "Data streaming for data engineers. Real-time data pipelines and streaming analytics. Fully managed Apache Kafka.",
+    "image_url": "",
+    "image_file": "ad_85f31bbc516c.svg",
+    "start_date": "2025-07-15",
+    "days_running": 252
+  },
+  {
+    "brand": "Dagster",
+    "text": "The data orchestration platform. Build, test, and maintain data pipelines with software engineering best practices.",
+    "image_url": "",
+    "image_file": "ad_f41626d07313.svg",
+    "start_date": "2025-12-05",
+    "days_running": 109
+  },
+  {
+    "brand": "Palantir",
+    "text": "Build data-driven operations. From data integration to AI-powered decision making. Trusted by governments and Fortune 500.",
+    "image_url": "",
+    "image_file": "ad_f8327e81d75d.svg",
+    "start_date": "2025-06-01",
+    "days_running": 296
+  },
+  {
+    "brand": "DataRobot",
+    "text": "AI platform for data analytics teams. Automate machine learning from data prep to deployment. Get value from AI faster.",
+    "image_url": "",
+    "image_file": "ad_549a7ce64734.svg",
+    "start_date": "2025-09-18",
+    "days_running": 187
+  },
+  {
+    "brand": "Sigma Computing",
+    "text": "Cloud analytics built for the modern data stack. Spreadsheet-like interface on your cloud data warehouse. No SQL required.",
+    "image_url": "",
+    "image_file": "ad_ac200a19b1d0.svg",
+    "start_date": "2025-10-30",
+    "days_running": 145
+  },
+  {
+    "brand": "Hex",
+    "text": "The modern analytics workspace. Notebooks, dashboards, and data apps \u2014 all connected to your data warehouse.",
+    "image_url": "",
+    "image_file": "ad_92640bd72988.svg",
+    "start_date": "2025-11-12",
+    "days_running": 132
+  },
+  {
+    "brand": "Lightdash",
+    "text": "Open source BI for dbt users. Build dashboards directly from your dbt project. Self-hosted or cloud.",
+    "image_url": "",
+    "image_file": "ad_e4bc5a22c5c7.svg",
+    "start_date": "2026-02-01",
+    "days_running": 51
+  },
+  {
+    "brand": "Metabase",
+    "text": "Fast, simple analytics for everyone. Open source BI tool. Ask questions about your data and get beautiful charts. No SQL needed.",
+    "image_url": "",
+    "image_file": "ad_61ff5e6839f0.svg",
+    "start_date": "2025-07-28",
+    "days_running": 239
+  }
+]
